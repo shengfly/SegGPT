@@ -10,3 +10,4 @@
 - 8, [] Gland Segmentation Challenge Contest[`website`](https://warwick.ac.uk/fac/cross_fac/tia/data/glascontest/download/)
 - 9, [hold for semantic segmentation] The Berkeley Segmentation Dataset and Benchmark[`website`](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/)
 - 10, [research]BCSS[`website`](https://github.com/PathologyDataScience/BCSS)
+- 11, [] HoVer-Net: Simultaneous Segmentation and Classification of Nuclei in Multi-Tissue Histology Images[`website`](https://warwick.ac.uk/fac/cross_fac/tia/data/hovernet/)
