@@ -6,3 +6,4 @@
 - 4, [Done] EndoTect Challenge [Only test available] [`website`](https://endotect.com)
 - 5, [ongoing] Multi-Spectral Leaf Segmentation For Crop/Weed Identification [`website`](https://entrepot.recherche.data.gouv.fr/dataset.xhtml?persistentId=doi:10.15454/JMKP9S)
 - 6, [] ICDAR 2021 Competition on Historical Map Segmentation [`website`](https://zenodo.org/record/4817662#.ZBMrzi2cZhE)
+- 7, [] MediaEval 2020 webpage [`website`](https://multimediaeval.github.io/editions/2020/tasks/medico/)
