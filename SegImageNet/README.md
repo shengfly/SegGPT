@@ -9,3 +9,4 @@
 - 7, [] MediaEval 2020 webpage [`website`](https://multimediaeval.github.io/editions/2020/tasks/medico/)
 - 8, [] Gland Segmentation Challenge Contest[`website`](https://warwick.ac.uk/fac/cross_fac/tia/data/glascontest/download/)
 - 9, [hold for semantic segmentation] The Berkeley Segmentation Dataset and Benchmark[`website`](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/)
+- 10, [research]BCSS[`website`](https://github.com/PathologyDataScience/BCSS)
